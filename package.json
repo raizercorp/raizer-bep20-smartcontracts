@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@openzeppelin/contracts": "^2.5.1",
+    "@truffle/hdwallet-provider": "^1.2.6",
     "bn-chai": "^1.0.1",
     "chai": "^4.3.3",
     "chai-as-promised": "^7.1.1",
